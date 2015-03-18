@@ -6,3 +6,6 @@ chromedriver.log
 coverage/
 db.sqlite
 dist/
+.idea/
+*~
+local_settings.py
